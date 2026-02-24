@@ -1,0 +1,4 @@
+localhost.n8n {
+    reverse_proxy n8n:443
+    tls internal
+}
